@@ -1,1 +1,1 @@
-# JavaScriptCoursera_Part1
+# JavaScript Part 1: the basics and functions
